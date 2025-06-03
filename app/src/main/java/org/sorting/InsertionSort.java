@@ -3,6 +3,9 @@ package org.sorting;
 import java.time.LocalDate;
 import java.util.Arrays;
 
+// Inserta cada elemento en la posición correcta dentro de una sublista ordenada.
+// Complejidad: O(n²), pero rápido en listas pequeñas o casi ordenadas.
+
 public class InsertionSort 
 {
     public static void sort(Integer []arr)

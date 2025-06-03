@@ -5,12 +5,14 @@ package org.run;
 
 import org.test.BubbleSortTest;
 import org.test.InsertionSortTest;
+import org.test.SelectionSortTest;
 
 public class App 
 {
     public static void main(String[] args) 
     {
         // BubbleSortTest.exec();
-        InsertionSortTest.exec();
+        // InsertionSortTest.exec();
+        SelectionSortTest.exec();
     }
 }
