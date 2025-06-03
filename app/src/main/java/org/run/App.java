@@ -5,6 +5,7 @@ package org.run;
 
 import org.test.BubbleSortTest;
 import org.test.InsertionSortTest;
+import org.test.MergeSortTest;
 import org.test.SelectionSortTest;
 
 public class App 
@@ -13,6 +14,7 @@ public class App
     {
         // BubbleSortTest.exec();
         // InsertionSortTest.exec();
-        SelectionSortTest.exec();
+        // SelectionSortTest.exec();
+        MergeSortTest.exec();
     }
 }
