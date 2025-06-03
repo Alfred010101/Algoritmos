@@ -1,2 +1,3 @@
 #Algoritmos de ordenamiento
-- BubbleSort
+- Bubble Sort
+- Insertion Sort 

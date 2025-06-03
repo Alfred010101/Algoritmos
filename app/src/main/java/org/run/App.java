@@ -4,12 +4,13 @@
 package org.run;
 
 import org.test.BubbleSortTest;
+import org.test.InsertionSortTest;
 
 public class App 
 {
-    
     public static void main(String[] args) 
     {
-        BubbleSortTest.exec();
+        // BubbleSortTest.exec();
+        InsertionSortTest.exec();
     }
 }
