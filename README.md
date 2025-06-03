@@ -4,7 +4,7 @@ Este repositorio contiene implementaciones de algoritmos:
 
 1. Ordenamiento 
 
-## 1. Algoritmos de Ordenamiento Simples
+## 1. Algoritmos de Ordenamiento Simple
 
 Estos algoritmos son fáciles de entender e implementar, aunque menos eficientes para grandes cantidades de datos.
 
@@ -12,7 +12,7 @@ Estos algoritmos son fáciles de entender e implementar, aunque menos eficientes
 2. **Insertion Sort** – O(n²)
 3. **Selection Sort** – O(n²)
 
-## 2. Algoritmos de Ordenamiento Eficientes
+## 2. Algoritmos de Ordenamiento Eficiente
 
 Estos algoritmos son más complejos, pero ofrecen un mejor rendimiento en la mayoría de los casos.
 
