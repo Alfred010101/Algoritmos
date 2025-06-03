@@ -3,6 +3,7 @@
 Este repositorio contiene implementaciones de algoritmos: 
 
 1. Ordenamiento 
+2. Busqueda
 
 ## 1. Algoritmos de Ordenamiento Simple
 
@@ -18,3 +19,9 @@ Estos algoritmos son más complejos, pero ofrecen un mejor rendimiento en la may
 
 1. **Merge Sort** – O(n log n)
 2. **Quick Sort** – O(n log n) promedio, O(n²) peor caso
+
+## 2. Algoritmos de Busqueda
+
+Estos algoritmos requieren que los datos esten ordenados
+
+1. **Binary Search**

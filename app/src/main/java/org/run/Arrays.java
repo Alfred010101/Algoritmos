@@ -8,7 +8,7 @@ public class Arrays
     public static Integer[] arrNums1 = {5, 2, 9};
     public static Integer[] arrNums2 = {12, -3, 7, 1, 15};
     public static Integer[] arrNums3 = {3, 2, 33, -33};
-    public static Integer[] arrNums4 = {20, -5, 8, 13, 0, 6, 4, 2};
+    public static Integer[] arrNums4 = {20, -5, 8, 13, 0, 6, 4, 2, 0};
 
     public static String[] arrStr1 = {"pera", "manzana", "uva"};
     public static String[] arrStr2 = {"sol", "luna", "estrella", "cometa", "planeta"};

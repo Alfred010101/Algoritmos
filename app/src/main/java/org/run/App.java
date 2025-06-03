@@ -8,6 +8,7 @@ import org.test.InsertionSortTest;
 import org.test.MergeSortTest;
 import org.test.QuickSortTest;
 import org.test.SelectionSortTest;
+import org.test.search.BinarySearchTest;
 
 public class App 
 {
@@ -17,6 +18,7 @@ public class App
         // InsertionSortTest.exec();
         // SelectionSortTest.exec();
         // MergeSortTest.exec();
-        QuickSortTest.exec();
+        // QuickSortTest.exec();
+        BinarySearchTest.exec();
     }
 }
